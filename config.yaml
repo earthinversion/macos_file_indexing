@@ -1,0 +1,2 @@
+volume_to_index: '/Volumes/QSIS_DISK' # Path to the volume to index
+output_db_file: 'qsismap.db' # Path to the output database file
