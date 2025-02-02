@@ -25,7 +25,7 @@ cd macos-file-indexing
 ```
 
 #### 3️⃣ Set Up the Database
-- Edit the configuration in `confil.yaml` file
+- Edit the configuration in `config.yaml` file
 - Run the following command to build the indexing database
     ```bash
     python file_indexer.py
